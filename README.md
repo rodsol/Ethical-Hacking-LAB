@@ -38,9 +38,7 @@ All activities conducted in controlled, isolated lab environments only.
 
 ### Repository Structure
 nmap-scapy-lab/
-├── nmap-scans/          # Nmap scan results
-├── scapy-scripts/       # Custom Scapy scripts
-├── findings.md          # Detailed findings
+├── nmap and scapy lab /          # Nmap and scapy scan results
 └── README.md            # This file
 ```
 
